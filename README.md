@@ -1,1 +1,1 @@
-# Assignment_M4
+"C++ is a powerful programming language used for making fast and efficient software. It's good for organizing code neatly (OOP), reusing code easily (templates), and working on many different types of projects. People like using it because it's fast, flexible, and there are lots of helpful resources available."
